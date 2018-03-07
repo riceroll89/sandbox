@@ -1,0 +1,1 @@
+Rudimentary URL shortener similar to TinyURL that uses a map with a randomized 6 digit alphanumeric key. Missing decode method.

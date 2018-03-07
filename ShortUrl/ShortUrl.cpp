@@ -16,7 +16,7 @@ string encode(string longUrl) {
 	for (int i = 0; i < keyLength; i++) {
 		randomKey += randomCharGen();
 	}
-	string shortUrl = "www.tinyurl.com/" + randomKey;
+	string shortUrl = "www.shorturl.com/" + randomKey;
 	return shortUrl;
 }
 
